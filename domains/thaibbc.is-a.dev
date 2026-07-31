@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "thaibbc",
+    "email": "thaibc14@gmail.com"
+  },
+  "record": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
